@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+transformers
+bitsandbytes
+torch
+huggingface_hub
+git-lfs
